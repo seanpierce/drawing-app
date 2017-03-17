@@ -6,7 +6,7 @@ An application developed as a class project for Treehouse (online coding school)
 * Clone or download repo
 * Open index.html in browser
 
-_View working project model at http://seanpierce.github.io/drawing-app_
+_View working project model at https://seanpierce.github.io/drawing-app_
 
 Contact sumler.sean@gmail.com
 
